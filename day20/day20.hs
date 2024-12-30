@@ -7,7 +7,6 @@ import Data.Ord
 import Data.Maybe
 import Data.Array
 import qualified Data.Map as M
-import Control.Monad
 import Control.Monad.State
 import qualified Data.PQueue.Prio.Min as PQ
 
